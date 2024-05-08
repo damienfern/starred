@@ -670,7 +670,6 @@
 - [NoiSek/Aether](https://github.com/NoiSek/Aether) - A sleek ArchLinux login manager for lightdm-webkit. ( lightdm-webkit-theme-aether )
 - [FallingSnow/lightdm-webkit2-material2](https://github.com/FallingSnow/lightdm-webkit2-material2) - A material design LightDM Webkit2 greeter theme
 - [synbioz/go_api](https://github.com/synbioz/go_api) - 
-- [CPELyon/4irc_aiot](https://github.com/CPELyon/4irc_aiot) - 
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
 - [onprem/dotfiles](https://github.com/onprem/dotfiles) - this repo contains dotfiles of my setups
 - [marcosmoura/dotfiles-old](https://github.com/marcosmoura/dotfiles-old) - My personal dotfiles - DEPRECATED!
