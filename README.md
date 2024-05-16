@@ -221,6 +221,7 @@
 - [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
 - [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [flancast90/camview](https://github.com/flancast90/camview) - A CLI-tool used to stream CCTV online footage based on URL params
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project. Collect information from a mail. Gather. Profile. Timeline.
@@ -277,7 +278,6 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [harshadgavali/gnome-gesture-improvements](https://github.com/harshadgavali/gnome-gesture-improvements) - Touchpad gesture improvements for GNOME on Wayland/X11
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
