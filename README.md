@@ -100,6 +100,7 @@
 
 ## HTML 
 
+- [COil/symfony-certification-preparation-list](https://github.com/COil/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [N0NameN0/CODEF_Ansi_Logo_Maker](https://github.com/N0NameN0/CODEF_Ansi_Logo_Maker) - A tiny web tool to use TDF (TheDraw font files) to create logo.
@@ -237,6 +238,7 @@
 
 ## Rust 
 
+- [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
 - [helmerapp/scap](https://github.com/helmerapp/scap) - High-performance, cross-platform screen capture library in Rust.
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
