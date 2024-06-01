@@ -662,6 +662,7 @@
 
 ## others 
 
+- [mtarld/json-encoder-bundle](https://github.com/mtarld/json-encoder-bundle) - 
 - [COil/symfony-certification-preparation-list](https://github.com/COil/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
