@@ -71,6 +71,7 @@
 
 ## Go 
 
+- [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [supabase/auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
 - [enix/kube-image-keeper](https://github.com/enix/kube-image-keeper) - kuik is a container image caching system for Kubernetes
