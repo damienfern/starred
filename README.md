@@ -26,6 +26,7 @@
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [Python](#python)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -237,6 +238,10 @@
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [marcosmoura/dotfiles-old](https://github.com/marcosmoura/dotfiles-old) - My personal dotfiles - DEPRECATED!
 
+## Roff 
+
+- [shivammathur/php-src-backports](https://github.com/shivammathur/php-src-backports) - Security backports for EOL versions of PHP.
+
 ## Ruby 
 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
@@ -272,6 +277,7 @@
 
 ## TypeScript 
 
+- [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
