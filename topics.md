@@ -678,6 +678,7 @@
 
 ## others 
 
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [Kiteretsu77/APISR](https://github.com/Kiteretsu77/APISR) - APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024)
 - [mtarld/json-encoder-bundle](https://github.com/mtarld/json-encoder-bundle) - 
 - [COil/symfony-certification-preparation-list](https://github.com/COil/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
