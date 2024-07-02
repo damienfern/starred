@@ -27,6 +27,7 @@
 - [Perl](#perl)
 - [Python](#python)
 - [Roff](#roff)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
 - [TypeScript](#typescript)
@@ -244,6 +245,10 @@
 ## Roff 
 
 - [shivammathur/php-src-backports](https://github.com/shivammathur/php-src-backports) - Security backports for EOL versions of PHP.
+
+## Ruby 
+
+- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.4. PHP 8.4 is built nightly.
 
 ## Rust 
 
