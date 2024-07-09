@@ -58,6 +58,7 @@
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
+- [graphql](#graphql)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacking-tools](#hacking-tools)
@@ -66,6 +67,7 @@
 - [homebrew](#homebrew)
 - [html](#html)
 - [html5](#html5)
+- [http](#http)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -107,6 +109,7 @@
 - [privacy](#privacy)
 - [programming](#programming)
 - [project-management](#project-management)
+- [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
 - [react](#react)
@@ -172,6 +175,7 @@
 
 ## api 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [adamgreenough/nicholas](https://github.com/adamgreenough/nicholas) - ✨ Ultra-lightweight, no-fuss, flat-file & nearly-headless blogging system
 - [pioz/tvdb](https://github.com/pioz/tvdb) - Golang wrapper for TVDB json api version 2
 - [adrenth/thetvdb2](https://github.com/adrenth/thetvdb2) - Thetvdb.com API v2 Client
@@ -447,6 +451,10 @@
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [pioz/tvdb](https://github.com/pioz/tvdb) - Golang wrapper for TVDB json api version 2
 
+## graphql 
+
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+
 ## hacking 
 
 - [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
@@ -467,6 +475,7 @@
 
 ## hacktoberfest 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.4. PHP 8.4 is built nightly.
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
@@ -507,6 +516,10 @@
 ## html5 
 
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
+
+## http 
+
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
 ## ios 
 
@@ -818,6 +831,10 @@
 
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 
+## pwa 
+
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+
 ## python 
 
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
@@ -855,6 +872,7 @@
 
 ## rest-api 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
@@ -971,6 +989,7 @@
 
 ## testing 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -997,6 +1016,7 @@
 
 ## vue 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [baruchiro/VueViteBoilerplateAdds](https://github.com/baruchiro/VueViteBoilerplateAdds) - building a Vue.js app using Vite CLI, with each commit adding a new feature. It serves as a guide for using Vue.js and Vite, and can be used as a starting point for your own projects.
 - [martinussuherman/vue-template](https://github.com/martinussuherman/vue-template) - Vue2 with typescript and vite starter template
 - [lstoeferle/vite-vue2-starter](https://github.com/lstoeferle/vite-vue2-starter) - Vite - Vue 2 starter template using composition-api and windiCSS
@@ -1005,6 +1025,7 @@
 
 ## vuejs 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard
