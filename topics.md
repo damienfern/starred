@@ -131,6 +131,7 @@
 - [storybook](#storybook)
 - [svelte](#svelte)
 - [symfony](#symfony)
+- [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [termux-hacking](#termux-hacking)
 - [terraform](#terraform)
@@ -999,6 +1000,10 @@
 ## symfony 
 
 - [javiereguiluz/easy-admin-demo](https://github.com/javiereguiluz/easy-admin-demo) - A demo application to showcase EasyAdmin features
+
+## tailwindcss 
+
+- [lstoeferle/vite-vue2-starter](https://github.com/lstoeferle/vite-vue2-starter) - Vite - Vue 2 starter template using composition-api and windiCSS
 
 ## terminal 
 
