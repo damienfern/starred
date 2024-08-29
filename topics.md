@@ -25,6 +25,7 @@
 - [bot](#bot)
 - [bugbounty](#bugbounty)
 - [c](#c)
+- [chatbot](#chatbot)
 - [chrome](#chrome)
 - [cli](#cli)
 - [clojure](#clojure)
@@ -265,6 +266,10 @@
 ## c 
 
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
+
+## chatbot 
+
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
 ## chrome 
 
