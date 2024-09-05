@@ -33,7 +33,7 @@
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [continuous-integration](#continuous-integration)
-- [csharp](#csharp)
+- [cpp](#cpp)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [data-structures](#data-structures)
@@ -115,6 +115,7 @@
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
+- [qt](#qt)
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
@@ -306,7 +307,7 @@
 
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 
-## csharp 
+## cpp 
 
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 
@@ -882,6 +883,10 @@
 
 - [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 
+## qt 
+
+- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
+
 ## react 
 
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.
@@ -1104,6 +1109,7 @@
 
 ## windows 
 
+- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
