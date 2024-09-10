@@ -196,6 +196,7 @@
 
 ## PHP 
 
+- [arokettu/composer-license-manager](https://github.com/arokettu/composer-license-manager) - License management plugin for Composer
 - [billabear/billabear](https://github.com/billabear/billabear) - Subscription Management and Billing System
 - [sqids/sqids-php](https://github.com/sqids/sqids-php) - Official PHP port of Sqids. Generate short unique IDs from numbers.
 - [mtarld/json-encoder-bundle](https://github.com/mtarld/json-encoder-bundle) - 
