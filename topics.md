@@ -100,6 +100,7 @@
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [open-source](#open-source)
+- [openai](#openai)
 - [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
@@ -726,6 +727,10 @@
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+
+## openai 
+
+- [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 
 ## osint 
 
