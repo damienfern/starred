@@ -125,6 +125,7 @@
 
 ## Java 
 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 - [leomelki/LoupGarou](https://github.com/leomelki/LoupGarou) - LoupGarou dans Minecraft
 - [UweTrottmann/thetvdb-java](https://github.com/UweTrottmann/thetvdb-java) - Unofficial TheTVDB.com API wrapper in Java written using retrofit2.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
@@ -298,6 +299,8 @@
 
 ## TypeScript 
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
 - [PierreBeucher/cloudypad](https://github.com/PierreBeucher/cloudypad) - Your own gaming gear in the Cloud ! 🎮 ⛅ https://cloudypad.gg
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
