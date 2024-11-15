@@ -27,6 +27,7 @@
 - [c](#c)
 - [chatbot](#chatbot)
 - [chrome](#chrome)
+- [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
 - [code](#code)
@@ -139,6 +140,7 @@
 - [svelte](#svelte)
 - [symfony](#symfony)
 - [tailwindcss](#tailwindcss)
+- [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [termux-hacking](#termux-hacking)
 - [terraform](#terraform)
@@ -286,6 +288,10 @@
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
+## chrome-extension 
+
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
+
 ## cli 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -350,6 +356,7 @@
 
 ## design 
 
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## devops 
@@ -594,6 +601,7 @@
 
 ## javascript 
 
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
@@ -1072,6 +1080,10 @@
 ## tailwindcss 
 
 - [lstoeferle/vite-vue2-starter](https://github.com/lstoeferle/vite-vue2-starter) - Vite - Vue 2 starter template using composition-api and windiCSS
+
+## tensorflow 
+
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 
 ## terminal 
 
