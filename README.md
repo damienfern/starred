@@ -31,6 +31,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -301,9 +302,13 @@
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [Grippy98/Asus-E200HA-Linux-Post-Install-Script](https://github.com/Grippy98/Asus-E200HA-Linux-Post-Install-Script) - A Linux Post install script for The Asus E200HA, X206HA and other Intel Cherry Trail Devices
 
+## Swift 
+
+- [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
+
 ## TypeScript 
 
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
