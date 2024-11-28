@@ -249,7 +249,7 @@
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [yonahd/orphaned-configmaps](https://github.com/yonahd/orphaned-configmaps) - A script for finding orphaned configmaps
-- [XPixelGroup/DiffBIR](https://github.com/XPixelGroup/DiffBIR) - Official codes of DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior
+- [XPixelGroup/DiffBIR](https://github.com/XPixelGroup/DiffBIR) - [ECCV 2024] codes of DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior
 - [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
 - [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [flancast90/camview](https://github.com/flancast90/camview) - A CLI-tool used to stream CCTV online footage based on URL params
