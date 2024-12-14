@@ -160,7 +160,7 @@
 
 ## ai 
 
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Rust API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
@@ -323,7 +323,7 @@
 
 ## computer-vision 
 
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Rust API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 
 ## continuous-integration 
 
@@ -681,7 +681,7 @@
 
 ## llm 
 
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Rust API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 
 ## low-code 
 
@@ -698,7 +698,7 @@
 
 ## machine-learning 
 
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Rust API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 
 ## macos 
 
