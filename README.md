@@ -322,7 +322,7 @@
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Rust API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - build ai agents that have the full context, open source, runs locally, developer friendly. 24/7 screen, mic, keyboard recording and control
 - [PierreBeucher/cloudypad](https://github.com/PierreBeucher/cloudypad) - Your own gaming gear in the Cloud ! 🎮 ⛅
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
