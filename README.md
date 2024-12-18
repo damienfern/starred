@@ -206,6 +206,7 @@
 - [GoldinGuy/UltimateGitResource](https://github.com/GoldinGuy/UltimateGitResource) - 📚 The ultimate collection of git commands and resources to power up your programming!
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [guardrailsio/awesome-php-security](https://github.com/guardrailsio/awesome-php-security) - Awesome PHP Security Resources 🕶🐘🔐
+- [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
 - [WyriHaximus/awesome-phpstorm](https://github.com/WyriHaximus/awesome-phpstorm) - A curated list of amazingly awesome PHPStorm plugins, resources and other shiny things.
 - [DamienDabernat/Cours_Android](https://github.com/DamienDabernat/Cours_Android) - 
 
@@ -305,7 +306,6 @@
 - [baruchiro/VueViteBoilerplateAdds](https://github.com/baruchiro/VueViteBoilerplateAdds) - building a Vue.js app using Vite CLI, with each commit adding a new feature. It serves as a guide for using Vue.js and Vite, and can be used as a starting point for your own projects.
 - [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell
 - [bobafetthotmail/refind-theme-regular](https://github.com/bobafetthotmail/refind-theme-regular) - 
-- [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [onprem/dotfiles](https://github.com/onprem/dotfiles) - this repo contains dotfiles of my setups
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
