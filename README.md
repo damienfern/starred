@@ -318,6 +318,7 @@
 
 ## TypeScript 
 
+- [arcanis/secretsanta](https://github.com/arcanis/secretsanta) - Helping you host your secret santas without leaking your guests' informations since 2015 🎄
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
