@@ -140,6 +140,7 @@
 - [statistics](#statistics)
 - [storybook](#storybook)
 - [svelte](#svelte)
+- [swift](#swift)
 - [symfony](#symfony)
 - [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
@@ -550,6 +551,7 @@
 
 ## hacktoberfest 
 
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -713,6 +715,7 @@
 
 ## macos 
 
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.5. PHP 8.5 is built nightly.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
@@ -1114,6 +1117,10 @@
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+
+## swift 
+
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 
 ## symfony 
 
