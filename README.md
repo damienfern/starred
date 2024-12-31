@@ -12,6 +12,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Dockerfile](#dockerfile)
+- [GDScript](#gdscript)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HTML](#html)
@@ -74,6 +75,10 @@
 
 - [SonarSource/docker-sonarqube](https://github.com/SonarSource/docker-sonarqube) - :whale: SonarQube in Docker
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
+
+## GDScript 
+
+- [ninetailsrabbit/indie-blueprint](https://github.com/ninetailsrabbit/indie-blueprint) - Indie Blueprint is a comprehensive Godot project template designed to streamline your development process. It includes essential features, optimized settings, and best practices to help you create ama
 
 ## Go 
 
