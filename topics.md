@@ -36,6 +36,7 @@
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
+- [csharp](#csharp)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [data-structures](#data-structures)
@@ -346,6 +347,10 @@
 ## cpp 
 
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
+
+## csharp 
+
+- [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 
 ## cybersecurity 
 
