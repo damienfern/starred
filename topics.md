@@ -846,6 +846,7 @@
 
 ## others 
 
+- [Stability-AI/stable-point-aware-3d](https://github.com/Stability-AI/stable-point-aware-3d) - SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [rstrouse/ESPSomfy-RTS](https://github.com/rstrouse/ESPSomfy-RTS) - A controller for Somfy RTS shades and blinds
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
