@@ -795,6 +795,7 @@
 
 ## mongodb 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
 
 ## mongoose 
