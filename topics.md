@@ -171,7 +171,7 @@
 
 ## ai 
 
-- [fingerthief/recommendarr](https://github.com/fingerthief/recommendarr) - An AI driven recommendation system based on Radarr and Sonarr library information
+- [fingerthief/recommendarr](https://github.com/fingerthief/recommendarr) - An LLM driven recommendation system based on Radarr and Sonarr library or watch history information
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
@@ -220,7 +220,7 @@
 
 ## artificial-intelligence 
 
-- [fingerthief/recommendarr](https://github.com/fingerthief/recommendarr) - An AI driven recommendation system based on Radarr and Sonarr library information
+- [fingerthief/recommendarr](https://github.com/fingerthief/recommendarr) - An LLM driven recommendation system based on Radarr and Sonarr library or watch history information
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [limbonaut/limboai](https://github.com/limbonaut/limboai) - LimboAI - Behavior Trees and State Machines for Godot 4
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -875,6 +875,7 @@
 
 ## others 
 
+- [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
 - [maxi1134/Home-Assistant-Config](https://github.com/maxi1134/Home-Assistant-Config) - This is my Smart-home Installation repository
 - [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd) - An example of hexagonal API Platform 3 implementation
 - [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
@@ -1136,7 +1137,7 @@
 
 ## self-hosted 
 
-- [fingerthief/recommendarr](https://github.com/fingerthief/recommendarr) - An AI driven recommendation system based on Radarr and Sonarr library information
+- [fingerthief/recommendarr](https://github.com/fingerthief/recommendarr) - An LLM driven recommendation system based on Radarr and Sonarr library or watch history information
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
@@ -1275,7 +1276,7 @@
 
 ## vue 
 
-- [fingerthief/recommendarr](https://github.com/fingerthief/recommendarr) - An AI driven recommendation system based on Radarr and Sonarr library information
+- [fingerthief/recommendarr](https://github.com/fingerthief/recommendarr) - An LLM driven recommendation system based on Radarr and Sonarr library or watch history information
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [baruchiro/VueViteBoilerplateAdds](https://github.com/baruchiro/VueViteBoilerplateAdds) - building a Vue.js app using Vite CLI, with each commit adding a new feature. It serves as a guide for using Vue.js and Vite, and can be used as a starting point for your own projects.
 - [martinussuherman/vue-template](https://github.com/martinussuherman/vue-template) - Vue2 with typescript and vite starter template
@@ -1285,7 +1286,7 @@
 
 ## vuejs 
 
-- [fingerthief/recommendarr](https://github.com/fingerthief/recommendarr) - An AI driven recommendation system based on Radarr and Sonarr library information
+- [fingerthief/recommendarr](https://github.com/fingerthief/recommendarr) - An LLM driven recommendation system based on Radarr and Sonarr library or watch history information
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
