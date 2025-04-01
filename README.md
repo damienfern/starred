@@ -173,7 +173,6 @@
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
 - [r-ichard/gatsby-starter-bootstrap-5](https://github.com/r-ichard/gatsby-starter-bootstrap-5) - Minimal configuration to start a gatsby project with bootstrap 5
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [spacerefugee/vue-js-spatial-navigation](https://github.com/spacerefugee/vue-js-spatial-navigation) - A wrapper of js-spatial-navigation to Vue components
 - [bbc/tal](https://github.com/bbc/tal) - TV Application Layer
 - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js
@@ -232,6 +231,7 @@
 
 ## PHP 
 
+- [solcloud/Counter-Strike](https://github.com/solcloud/Counter-Strike) - Multiplayer FPS game - Counter-Strike: Football 🏉
 - [it-novum/openITCOCKPIT](https://github.com/it-novum/openITCOCKPIT) - openITCOCKPIT is an Open Source system monitoring tool built for different monitoring engines like Nagios, Naemon and Prometheus.
 - [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd) - An example of hexagonal API Platform 3 implementation
 - [FriendsOfOpenTelemetry/symfony-demo](https://github.com/FriendsOfOpenTelemetry/symfony-demo) - Symfony Demo app with OpenTelemetry Bundle
@@ -394,6 +394,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 
 ## Vue 
 
