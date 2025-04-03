@@ -885,6 +885,7 @@
 
 ## others 
 
+- [SymfonyLive/paris-2025-talks](https://github.com/SymfonyLive/paris-2025-talks) - 
 - [solcloud/Counter-Strike](https://github.com/solcloud/Counter-Strike) - Multiplayer FPS game - Counter-Strike: Football 🏉
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
 - [maxi1134/Home-Assistant-Config](https://github.com/maxi1134/Home-Assistant-Config) - This is my Smart-home Installation repository
