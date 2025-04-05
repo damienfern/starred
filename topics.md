@@ -84,7 +84,6 @@
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
-- [json](#json)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -212,7 +211,6 @@
 
 - [seashell/drago](https://github.com/seashell/drago) - ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-- [adamgreenough/ace](https://github.com/adamgreenough/ace) - 😎 Addy's Content Engine: ultra-lightweight, flat-file content management system with optional frontend
 - [pioz/tvdb](https://github.com/pioz/tvdb) - Golang wrapper for TVDB json api version 2
 - [adrenth/thetvdb2](https://github.com/adrenth/thetvdb2) - Thetvdb.com API v2 Client
 
@@ -690,10 +688,6 @@
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [bbc/tal](https://github.com/bbc/tal) - TV Application Layer
 
-## json 
-
-- [adamgreenough/ace](https://github.com/adamgreenough/ace) - 😎 Addy's Content Engine: ultra-lightweight, flat-file content management system with optional frontend
-
 ## kotlin 
 
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
@@ -780,7 +774,6 @@
 
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-- [adamgreenough/ace](https://github.com/adamgreenough/ace) - 😎 Addy's Content Engine: ultra-lightweight, flat-file content management system with optional frontend
 
 ## mastodon 
 
@@ -1001,7 +994,6 @@
 - [psecio/parse](https://github.com/psecio/parse) - Parse: A Static Security Scanner
 - [FloeDesignTechnologies/phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code
 - [guardrailsio/awesome-php-security](https://github.com/guardrailsio/awesome-php-security) - Awesome PHP Security Resources 🕶🐘🔐
-- [adamgreenough/ace](https://github.com/adamgreenough/ace) - 😎 Addy's Content Engine: ultra-lightweight, flat-file content management system with optional frontend
 - [HDInnovations/UNIT3D](https://github.com/HDInnovations/UNIT3D) - UNIT3D is a private torrent tracker built with Laravel, Livewire and AlpineJS.
 - [PHPCompatibility/PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - PHP Compatibility check for PHP_CodeSniffer
 - [javiereguiluz/easy-admin-demo](https://github.com/javiereguiluz/easy-admin-demo) - A demo application to showcase EasyAdmin features
