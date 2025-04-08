@@ -878,6 +878,7 @@
 
 ## others 
 
+- [J-Ponzo/touref-l](https://github.com/J-Ponzo/touref-l) - Touref-L: Totally Overkill Unoptimized Rendering Engine for Learners. An environement designed to learn graphics programming. (Implemented as a Godot addon)
 - [SymfonyLive/paris-2025-talks](https://github.com/SymfonyLive/paris-2025-talks) - 
 - [solcloud/Counter-Strike](https://github.com/solcloud/Counter-Strike) - Multiplayer FPS game - Counter-Strike: Football 🏉
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
