@@ -980,6 +980,7 @@
 
 ## php 
 
+- [lyrixx/composer-diff](https://github.com/lyrixx/composer-diff) - Web application to  compare two `composer.lock` and get a beautiful diff
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.5. PHP 8.5 is built nightly.
 - [sqids/sqids-php](https://github.com/sqids/sqids-php) - Official PHP port of Sqids. Generate short unique IDs from numbers.
