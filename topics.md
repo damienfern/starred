@@ -901,7 +901,7 @@
 - [mtarld/json-encoder-bundle](https://github.com/mtarld/json-encoder-bundle) - 
 - [COil/symfony-certification-preparation-list](https://github.com/COil/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
-- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
+- [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions
 - [MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
