@@ -367,7 +367,7 @@
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [arcanis/secretsanta](https://github.com/arcanis/secretsanta) - Helping you host your secret santas without leaking your guests' informations since 2015 🎄
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
