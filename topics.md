@@ -203,6 +203,7 @@
 
 ## angular 
 
+- [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## ansible 
@@ -1081,6 +1082,7 @@
 
 ## react 
 
+- [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
@@ -1118,7 +1120,7 @@
 
 ## rust 
 
-- [r3dlight/keysas](https://github.com/r3dlight/keysas) - USB virus cleaning station
+- [keysas-fr/keysas](https://github.com/keysas-fr/keysas) - USB virus cleaning station
 - [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme) - List system USB buses and devices. A modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
@@ -1132,7 +1134,7 @@
 
 ## security 
 
-- [r3dlight/keysas](https://github.com/r3dlight/keysas) - USB virus cleaning station
+- [keysas-fr/keysas](https://github.com/keysas-fr/keysas) - USB virus cleaning station
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
@@ -1290,6 +1292,7 @@
 
 ## typescript 
 
+- [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
