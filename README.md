@@ -322,7 +322,7 @@
 
 ## Rust 
 
-- [r3dlight/keysas](https://github.com/r3dlight/keysas) - USB virus cleaning station
+- [keysas-fr/keysas](https://github.com/keysas-fr/keysas) - USB virus cleaning station
 - [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme) - List system USB buses and devices. A modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
@@ -366,6 +366,7 @@
 
 ## TypeScript 
 
+- [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [kevinrss01/dubbing-engine](https://github.com/kevinrss01/dubbing-engine) - Typescript tool to translate any video with AI. Voice cloning, subtitles and LipSync. 35 languages available. Used by https://www.voicecheap.ai/.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
