@@ -1123,7 +1123,7 @@
 
 ## rust 
 
-- [keysas-fr/keysas](https://github.com/keysas-fr/keysas) - USB virus cleaning station
+- [keysas-fr/keysas](https://github.com/keysas-fr/keysas) - USB virus cleaning station/gateway
 - [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme) - List system USB buses and devices. A modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
@@ -1139,7 +1139,7 @@
 
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
-- [keysas-fr/keysas](https://github.com/keysas-fr/keysas) - USB virus cleaning station
+- [keysas-fr/keysas](https://github.com/keysas-fr/keysas) - USB virus cleaning station/gateway
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
