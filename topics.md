@@ -86,6 +86,7 @@
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
+- [jenkins](#jenkins)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -712,6 +713,10 @@
 - [GamerKingFaiz/shouldiplay](https://github.com/GamerKingFaiz/shouldiplay) - Web app that combines data from HowLongToBeat and OpenCritic.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [bbc/tal](https://github.com/bbc/tal) - TV Application Layer
+
+## jenkins 
+
+- [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 
 ## kotlin 
 
