@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [ai](#ai)
 - [algorithm](#algorithm)
 - [analytics](#analytics)
@@ -173,6 +174,10 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+
+## 3d 
+
+- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A web-based 3D CAD application for online model design and editing
 
 ## ai 
 
