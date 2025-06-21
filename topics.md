@@ -175,6 +175,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [xml](#xml)
 
 ## 3d 
 
@@ -1016,6 +1017,7 @@
 
 ## php 
 
+- [symplify/config-transformer](https://github.com/symplify/config-transformer) - Convert Symfony YAML configs to PHP format
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [lyrixx/composer-diff](https://github.com/lyrixx/composer-diff) - Web application to  compare two `composer.lock` and get a beautiful diff
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
@@ -1267,6 +1269,7 @@
 
 ## symfony 
 
+- [symplify/config-transformer](https://github.com/symplify/config-transformer) - Convert Symfony YAML configs to PHP format
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [FriendsOfOpenTelemetry/symfony-demo](https://github.com/FriendsOfOpenTelemetry/symfony-demo) - Symfony Demo app with OpenTelemetry Bundle
 - [javiereguiluz/easy-admin-demo](https://github.com/javiereguiluz/easy-admin-demo) - A demo application to showcase EasyAdmin features
@@ -1408,6 +1411,10 @@
 - [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
+
+## xml 
+
+- [symplify/config-transformer](https://github.com/symplify/config-transformer) - Convert Symfony YAML configs to PHP format
 
 
 ## License
