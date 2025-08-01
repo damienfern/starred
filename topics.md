@@ -178,6 +178,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -1449,6 +1450,12 @@
 ## xml 
 
 - [symplify/config-transformer](https://github.com/symplify/config-transformer) - Convert Symfony YAML configs to PHP format
+
+## zsh 
+
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
+- [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 
 
 ## License
