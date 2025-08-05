@@ -1003,7 +1003,7 @@
 - [jas-/crypt.io](https://github.com/jas-/crypt.io) - Encryption enabled browser storage
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
 - [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
-- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
+- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go
 - [NoiSek/Aether](https://github.com/NoiSek/Aether) - A sleek ArchLinux login manager for lightdm-webkit. ( lightdm-webkit-theme-aether )
 - [FallingSnow/lightdm-webkit2-material2](https://github.com/FallingSnow/lightdm-webkit2-material2) - A material design LightDM Webkit2 greeter theme
 - [synbioz/go_api](https://github.com/synbioz/go_api) - 
