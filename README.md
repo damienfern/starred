@@ -46,6 +46,7 @@
 
 ## C 
 
+- [OpenIPC/firmware](https://github.com/OpenIPC/firmware) - Alternative IP Camera firmware from an open community
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
