@@ -589,6 +589,7 @@
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard
 - [micro/micro](https://github.com/micro/micro) - A microservices toolkit
+- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go
 - [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [pioz/tvdb](https://github.com/pioz/tvdb) - Golang wrapper for TVDB json api version 2
@@ -613,6 +614,7 @@
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go
 - [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [pioz/tvdb](https://github.com/pioz/tvdb) - Golang wrapper for TVDB json api version 2
@@ -1004,7 +1006,6 @@
 - [jas-/crypt.io](https://github.com/jas-/crypt.io) - Encryption enabled browser storage
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
 - [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
-- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go
 - [NoiSek/Aether](https://github.com/NoiSek/Aether) - A sleek ArchLinux login manager for lightdm-webkit. ( lightdm-webkit-theme-aether )
 - [FallingSnow/lightdm-webkit2-material2](https://github.com/FallingSnow/lightdm-webkit2-material2) - A material design LightDM Webkit2 greeter theme
 - [synbioz/go_api](https://github.com/synbioz/go_api) - 
