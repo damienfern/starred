@@ -86,7 +86,7 @@
 
 - [J-Ponzo/touref-l](https://github.com/J-Ponzo/touref-l) - Touref-L: Totally Overkill Unoptimized Rendering Engine for Learners. An environement designed to learn graphics programming. (Implemented as a Godot addon)
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
-- [ninetailsrabbit/indie-blueprint](https://github.com/ninetailsrabbit/indie-blueprint) - Indie Blueprint is a comprehensive Godot project template designed to streamline your development process. It includes essential features, optimized settings, and best practices to help you create ama
+- [sempitern0/indie-blueprint](https://github.com/sempitern0/indie-blueprint) - Indie Blueprint is a comprehensive Godot project template designed to streamline your development process. It includes essential features, optimized settings, and best practices to help you create ama
 
 ## Go 
 
@@ -373,6 +373,7 @@
 
 ## TypeScript 
 
+- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
