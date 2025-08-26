@@ -91,7 +91,7 @@
 ## Go 
 
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A versatile workflow orchestration tool for scheduling tasks, running containers, and remote execution. Single binary with Web UI. It can create complex workflows and run arbitrary commands or scripts
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A local-first workflow orchestration engine with single binary & Web UI. It can run arbitrary workflows defined in a simple YAML format. It can run scripts, containers, and remote commands via SSH.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [etix/mirrorbits](https://github.com/etix/mirrorbits) - Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
@@ -376,7 +376,7 @@
 
 ## TypeScript 
 
-- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [getAsterisk/gooey](https://github.com/getAsterisk/gooey) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
@@ -401,7 +401,7 @@
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [lyonjs/shortvid.io](https://github.com/lyonjs/shortvid.io) - Repository to generate meetup trailers for social network like Twitter, Reddit, Slack to announce speakers and talks and sponsors 📣
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
