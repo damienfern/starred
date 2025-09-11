@@ -91,7 +91,7 @@
 ## Go 
 
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A lightweight and powerful workflow engine with a Web UI that makes workflow execution and management simple.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A powerful Cron alternative with a Web UI. Define dependencies between commands as a in a declarative YAML format. Dagu simplifies the management and execution of complex workflows. It natively suppor
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [etix/mirrorbits](https://github.com/etix/mirrorbits) - Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
