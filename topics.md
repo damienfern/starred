@@ -442,7 +442,7 @@
 
 ## devops 
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A powerful Cron alternative with a Web UI. Define dependencies between commands as a in a declarative YAML format. Dagu simplifies the management and execution of complex workflows. It natively suppor
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight Workflow Engine Alternative to Airflow & Cron. Define dependencies between commands as a in a declarative YAML format. Dagu simplifies the management and execution of complex workflows. It
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
