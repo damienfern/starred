@@ -974,7 +974,7 @@
 - [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) - A clean, elegant and advanced blog theme for Hugo.
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 - [OpenIPC/firmware](https://github.com/OpenIPC/firmware) - Alternative IP Camera firmware from an open community
-- [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
+- [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Open-source platform that transforms your personal media library into live, custom TV channels.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [J-Ponzo/touref-l](https://github.com/J-Ponzo/touref-l) - Touref-L: Totally Overkill Unoptimized Rendering Engine for Learners. An environement designed to learn graphics programming. (Implemented as a Godot addon)
 - [SymfonyLive/paris-2025-talks](https://github.com/SymfonyLive/paris-2025-talks) - 
