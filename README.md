@@ -298,7 +298,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [Screenly/Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
-- [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
 - [Kiteretsu77/APISR](https://github.com/Kiteretsu77/APISR) - APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024)
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
