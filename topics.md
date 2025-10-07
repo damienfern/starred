@@ -492,7 +492,7 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
-- [fallenbagel/jellyseerr](https://github.com/fallenbagel/jellyseerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
