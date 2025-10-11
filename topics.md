@@ -182,6 +182,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## 3d 
@@ -1500,6 +1501,11 @@
 ## xml 
 
 - [symplify/config-transformer](https://github.com/symplify/config-transformer) - Convert Symfony YAML configs to PHP format
+
+## youtube 
+
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 
 ## zsh 
 
