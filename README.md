@@ -201,6 +201,7 @@
 
 ## Kotlin 
 
+- [Sam42a/DUNE](https://github.com/Sam42a/DUNE) - Dune is a Jellyfin Android tv Client
 - [z3r0c00l-2k/AquaDroid](https://github.com/z3r0c00l-2k/AquaDroid) - AquaDroid app reminds you to drink water and tracks your water intake habit.
 
 ## Lua 
