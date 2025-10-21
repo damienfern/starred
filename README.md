@@ -181,7 +181,7 @@
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
 - [r-ichard/gatsby-starter-bootstrap-5](https://github.com/r-ichard/gatsby-starter-bootstrap-5) - Minimal configuration to start a gatsby project with bootstrap 5
-- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [spacerefugee/vue-js-spatial-navigation](https://github.com/spacerefugee/vue-js-spatial-navigation) - A wrapper of js-spatial-navigation to Vue components
 - [bbc/tal](https://github.com/bbc/tal) - TV Application Layer
 - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js
