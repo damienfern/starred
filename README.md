@@ -188,7 +188,6 @@
 - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js
 - [LucasFebatis/tizen-vuejs-bootstrap-webpack](https://github.com/LucasFebatis/tizen-vuejs-bootstrap-webpack) - 
 - [panva/node-oidc-provider-example](https://github.com/panva/node-oidc-provider-example) - A step-by-step approach to getting an OpenID Connect Provider instance up and running using oidc-provider
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [jas-/crypt.io](https://github.com/jas-/crypt.io) - Encryption enabled browser storage
 - [NoiSek/Aether](https://github.com/NoiSek/Aether) - A sleek ArchLinux login manager for lightdm-webkit. ( lightdm-webkit-theme-aether )
 - [artur9010/lightdm-webkit-material](https://github.com/artur9010/lightdm-webkit-material) - [PROJECT ABANDONED] A material design LightDM Webkit greeter theme
@@ -423,6 +422,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 
 ## Vue 
 
