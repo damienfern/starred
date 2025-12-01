@@ -1010,6 +1010,7 @@
 
 ## others 
 
+- [SymfonyCon/2025-talks](https://github.com/SymfonyCon/2025-talks) - 
 - [kermanx/p2p-live-share](https://github.com/kermanx/p2p-live-share) - VSCode collaboration extension - a peer-to-peer and open source alternative to Live Share.
 - [leochiu-a/slidev-workspace](https://github.com/leochiu-a/slidev-workspace) - Slidev Workspace is a specialized command-line tool designed to manage and showcase multiple Slidev presentations.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
