@@ -213,6 +213,7 @@
 
 ## Markdown 
 
+- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Objective-C 
@@ -356,7 +357,6 @@
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [pronskiy/phpup](https://github.com/pronskiy/phpup) - The PHP toolchain: run Composer, PHPStan, Rector, or any PHP script without having PHP installed.
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
-- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 - [pgexperts/pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
 - [baruchiro/VueViteBoilerplateAdds](https://github.com/baruchiro/VueViteBoilerplateAdds) - building a Vue.js app using Vite CLI, with each commit adding a new feature. It serves as a guide for using Vue.js and Vite, and can be used as a starting point for your own projects.
 - [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell
@@ -393,7 +393,7 @@
 - [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A web-based 3D CAD application for online model design and editing
 - [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
