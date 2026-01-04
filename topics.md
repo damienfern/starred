@@ -110,6 +110,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -911,6 +912,10 @@
 ## material-design 
 
 - [artur9010/lightdm-webkit-material](https://github.com/artur9010/lightdm-webkit-material) - [PROJECT ABANDONED] A material design LightDM Webkit greeter theme
+
+## mcp 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## microservices 
 
