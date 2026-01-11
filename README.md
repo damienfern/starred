@@ -46,6 +46,7 @@
 
 ## C 
 
+- [implement-from-scratch/memory-allocator-c](https://github.com/implement-from-scratch/memory-allocator-c) - 
 - [NoiseByNorthwest/php-spx](https://github.com/NoiseByNorthwest/php-spx) - A simple & straight-to-the-point PHP profiling extension with its built-in web UI
 - [OpenIPC/firmware](https://github.com/OpenIPC/firmware) - Alternative IP Camera firmware from an open community
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
@@ -97,7 +98,7 @@
 
 - [dunglas/frankenphp-grpc](https://github.com/dunglas/frankenphp-grpc) - A PHP extension to write gRPC servers using the official gRPC library written in Go
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A lightweight Airflow alternative for small teams. Builtin Web UI. Define workflow in a simple declarative YAML format.  Execute them anywhere, compose complex pipelines from reusable sub-workflows, a
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A self-contained, lightweight workflow engine with a built-in Web UI. Define workflows in a simple, declarative YAML format. Execute them anywhere, compose complex pipelines, and distribute tasks. Zer
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [etix/mirrorbits](https://github.com/etix/mirrorbits) - Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
@@ -224,6 +225,7 @@
 
 ## Others 
 
+- [Anashost/HA-Animated-cards](https://github.com/Anashost/HA-Animated-cards) - 
 - [SymfonyCon/2025-talks](https://github.com/SymfonyCon/2025-talks) - 
 - [SymfonyLive/paris-2025-talks](https://github.com/SymfonyLive/paris-2025-talks) - 
 - [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
@@ -354,6 +356,7 @@
 
 ## Shell 
 
+- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
@@ -386,6 +389,7 @@
 
 ## TypeScript 
 
+- [Kieirra/murmure](https://github.com/Kieirra/murmure) - Privacy-first and free Speech-to-Text
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [kermanx/p2p-live-share](https://github.com/kermanx/p2p-live-share) - VSCode collaboration extension - a peer-to-peer and open source alternative to Live Share.
 - [leochiu-a/slidev-workspace](https://github.com/leochiu-a/slidev-workspace) - Slidev Workspace is a specialized command-line tool designed to manage and showcase multiple Slidev presentations.
