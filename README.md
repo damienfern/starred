@@ -412,7 +412,7 @@
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [PierreBeucher/cloudypad](https://github.com/PierreBeucher/cloudypad) - Free, Open Source alternative to GeForce Now, Blacknut and similar Cloud Gaming platforms. Deploy your own gaming gear in the Cloud ! 🎮 ⛅
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -445,7 +445,7 @@
 - [TannerMidd/recommendarr](https://github.com/TannerMidd/recommendarr) - An LLM driven recommendation system based on Radarr and Sonarr library or watch history information
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [one-click-studio/gabin](https://github.com/one-click-studio/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api.
+- [miroir-os/gabin](https://github.com/miroir-os/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api.
 - [martinussuherman/vue-template](https://github.com/martinussuherman/vue-template) - Vue2 with typescript and vite starter template
 - [lstoeferle/vite-vue2-starter](https://github.com/lstoeferle/vite-vue2-starter) - Vite - Vue 2 starter template using composition-api and windiCSS
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
