@@ -57,6 +57,7 @@
 
 - [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Open-source platform that transforms your personal media library into live, custom TV channels.
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [nmklotas/GitLabCLI](https://github.com/nmklotas/GitLabCLI) - Cross platform GitLab CLI tool
 
@@ -67,7 +68,6 @@
 - [rstrouse/ESPSomfy-RTS](https://github.com/rstrouse/ESPSomfy-RTS) - A controller for Somfy RTS shades and blinds
 - [limbonaut/limboai](https://github.com/limbonaut/limboai) - LimboAI - Behavior Trees and State Machines for Godot 4
 - [pixop/video-compare](https://github.com/pixop/video-compare) - Split screen video comparison tool using FFmpeg and SDL2
-- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [scienceetonnante/WordleSutom](https://github.com/scienceetonnante/WordleSutom) - Solve Wordle Sutom using maximum expected information
 
 ## CSS 
