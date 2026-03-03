@@ -218,7 +218,7 @@
 
 ## Others 
 
-- [Anashost/HA-Animated-cards](https://github.com/Anashost/HA-Animated-cards) - 
+- [Anashost/HA-Animated-cards](https://github.com/Anashost/HA-Animated-cards) - Take your Home Assistant dashboard to the next level with dynamic, customizable animated cards that bring your smart home dashboard to life.
 - [SymfonyCon/2025-talks](https://github.com/SymfonyCon/2025-talks) - 
 - [SymfonyLive/paris-2025-talks](https://github.com/SymfonyLive/paris-2025-talks) - 
 - [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
