@@ -224,6 +224,7 @@
 - [SymfonyCon/2025-talks](https://github.com/SymfonyCon/2025-talks) - 
 - [SymfonyLive/paris-2025-talks](https://github.com/SymfonyLive/paris-2025-talks) - 
 - [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 40% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [kakoni/awesome-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources.
 - [ioguix/pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
@@ -361,7 +362,6 @@
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 40% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [pronskiy/phpup](https://github.com/pronskiy/phpup) - The PHP toolchain: run Composer, PHPStan, Rector, or any PHP script without having PHP installed.
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
