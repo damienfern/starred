@@ -55,7 +55,7 @@
 
 ## C# # 
 
-- [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Open-source platform that transforms your personal media library into live, custom TV channels.
+- [ErsatzTV/ErsatzTV-legacy](https://github.com/ErsatzTV/ErsatzTV-legacy) - Open-source platform that transforms your personal media library into live, custom TV channels.
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
@@ -91,7 +91,7 @@
 
 ## Go 
 
-- [alexandre-daubois/ember](https://github.com/alexandre-daubois/ember) - Ember is a real-time dashboard for Caddy & FrankenPHP
+- [alexandre-daubois/ember](https://github.com/alexandre-daubois/ember) - 🔥 Ember is a real-time dashboard for Caddy & FrankenPHP
 - [dunglas/frankenphp-grpc](https://github.com/dunglas/frankenphp-grpc) - A PHP extension to write gRPC servers using the official gRPC library written in Go
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 - [dagucloud/dagu](https://github.com/dagucloud/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Persistent Workflow Oper
