@@ -179,6 +179,7 @@
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [termux-hacking](#termux-hacking)
+- [termux-tool](#termux-tool)
 - [terraform](#terraform)
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
@@ -1502,6 +1503,10 @@
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 
 ## termux-hacking 
+
+- [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
+
+## termux-tool 
 
 - [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
 
