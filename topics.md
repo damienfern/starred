@@ -1079,6 +1079,7 @@
 
 ## others 
 
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
 - [mubaraknumann/unifideck](https://github.com/mubaraknumann/unifideck) - A Decky Loader plugin that brings together games from Steam, Epic Games Store, GOG, Amazon, Ubisoft and XCloud into a single, unified library experience on your Steam Deck.
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
