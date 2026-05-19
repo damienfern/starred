@@ -220,6 +220,7 @@
 
 ## Others 
 
+- [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey) - YellowKey Bitlocker Bypass Vulnerability
 - [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - :video_game: :game_die: A wonderful list of Game Development resources.
 - [Anashost/HA-Animated-cards](https://github.com/Anashost/HA-Animated-cards) - Take your Home Assistant dashboard to the next level with dynamic, customizable animated cards that bring your smart home dashboard to life.
 - [SymfonyCon/2025-talks](https://github.com/SymfonyCon/2025-talks) - 
