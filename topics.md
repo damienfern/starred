@@ -47,8 +47,6 @@
 - [csharp](#csharp)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
-- [data-engineering](#data-engineering)
-- [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
 - [database](#database)
@@ -468,14 +466,6 @@
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
-## data-engineering 
-
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first control plane for data scripts, SQL, containers, SSH commands, and AI agent workflows. One binary, file-backed state, no external database or broker. Use your favorite AI agents to create,
-
-## data-science 
-
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first control plane for data scripts, SQL, containers, SSH commands, and AI agent workflows. One binary, file-backed state, no external database or broker. Use your favorite AI agents to create,
-
 ## data-structures 
 
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -511,7 +501,7 @@
 ## devops 
 
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first control plane for data scripts, SQL, containers, SSH commands, and AI agent workflows. One binary, file-backed state, no external database or broker. Use your favorite AI agents to create,
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Lightweight, powerful workflow engine built in a single binary with Web UI. Linux, macOS, and Windows. Use your favorite AI agents to create, update, and run your workflows via secure MCP with full tr
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -1084,7 +1074,6 @@
 
 ## others 
 
-- [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey) - YellowKey Bitlocker Bypass Vulnerability
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
 - [mubaraknumann/unifideck](https://github.com/mubaraknumann/unifideck) - A Decky Loader plugin that brings together games from Steam, Epic Games Store, GOG, Amazon, Ubisoft and XCloud into a single, unified library experience on your Steam Deck.
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP
