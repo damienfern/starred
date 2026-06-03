@@ -1469,7 +1469,7 @@
 
 ## svelte 
 
-- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - drag-and-drop rack layout designer
+- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
@@ -1548,7 +1548,7 @@
 
 ## typescript 
 
-- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - drag-and-drop rack layout designer
+- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
@@ -1588,7 +1588,7 @@
 
 ## visualization 
 
-- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - drag-and-drop rack layout designer
+- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [NoiseByNorthwest/php-spx](https://github.com/NoiseByNorthwest/php-spx) - A simple & straight-to-the-point PHP profiling extension with its built-in web UI
 
 ## vpn 
