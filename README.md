@@ -95,7 +95,7 @@
 - [alexandre-daubois/ember](https://github.com/alexandre-daubois/ember) - 🔥 Real-time terminal dashboard for Caddy servers, with built-in FrankenPHP support
 - [dunglas/frankenphp-grpc](https://github.com/dunglas/frankenphp-grpc) - A PHP extension to write gRPC servers using the official gRPC library written in Go
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine with a Web UI for small teams. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine for ops automation and AI-assisted operations. Open source and self-hostable: single binary, no DBMS. Define DAGs in declarative YAML. Built-in MCP server so AI agents can 
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [videolabs/mirrorbits](https://github.com/videolabs/mirrorbits) - Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
@@ -269,7 +269,7 @@
 - [alexandre-daubois/phikl](https://github.com/alexandre-daubois/phikl) - 🥒 Apple's Pkl bridge for PHP
 - [brefphp/bref](https://github.com/brefphp/bref) - Serverless PHP on AWS Lambda
 - [bourdeau/docker-symfony4](https://github.com/bourdeau/docker-symfony4) - :whale: Symfony 4 with Docker Compose and PHP 7.2
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [pestphp/pest](https://github.com/pestphp/pest) - The elegant testing framework for PHP developers and AI agents.
 - [ollyxar/php-malware-detector](https://github.com/ollyxar/php-malware-detector) - PHP malware detector
 - [psecio/parse](https://github.com/psecio/parse) - Parse: A Static Security Scanner
 - [FloeDesignTechnologies/phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code
