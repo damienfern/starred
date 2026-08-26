@@ -1096,6 +1096,7 @@
 
 ## others 
 
+- [roadsidebomb/Polybar-System](https://github.com/roadsidebomb/Polybar-System) - The Polybar System - Guitar controllers for music games!
 - [SharonBrizinov/slack-sounds](https://github.com/SharonBrizinov/slack-sounds) - Customize your Slack sound notifications
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
 - [mubaraknumann/unifideck](https://github.com/mubaraknumann/unifideck) - A Decky Loader plugin that brings together games from Steam, Epic Games Store, GOG, Amazon, Ubisoft and XCloud into a single, unified library experience on your Steam Deck.
