@@ -1096,6 +1096,7 @@
 
 ## others 
 
+- [wilbowes/EchoMuse](https://github.com/wilbowes/EchoMuse) - Alexa replacement and controller for Echo Dot 2nd Generation device.
 - [roadsidebomb/Polybar-System](https://github.com/roadsidebomb/Polybar-System) - The Polybar System - Guitar controllers for music games!
 - [SharonBrizinov/slack-sounds](https://github.com/SharonBrizinov/slack-sounds) - Customize your Slack sound notifications
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
