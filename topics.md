@@ -1100,6 +1100,7 @@
 
 ## others 
 
+- [OpenStickCommunity/GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) - Multi-Platform Gamepad Firmware for Raspberry Pi Pico and other RP2040 boards
 - [urosidoki/htn_planner](https://github.com/urosidoki/htn_planner) - Ahead-of-time compiled HTN planner and C++ SDK for game AI.
 - [wilbowes/EchoMuse](https://github.com/wilbowes/EchoMuse) - Alexa replacement and controller for Echo Dot 2nd Generation device.
 - [roadsidebomb/Polybar-System](https://github.com/roadsidebomb/Polybar-System) - The Polybar System - Guitar controllers for music games!
