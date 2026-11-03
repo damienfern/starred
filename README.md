@@ -298,7 +298,7 @@
 
 ## Python 
 
-- [wilbowes/EchoMuse](https://github.com/wilbowes/EchoMuse) - Alexa replacement and controller for Echo Dot 2nd Generation device.
+- [wilbowes/EchoMuse](https://github.com/wilbowes/EchoMuse) - A local voice assistant for Home Assistant on old Amazon Echoes, with no Amazon software left on them: our own Linux userspace (emOS), our own audio pipeline, and a wake word that runs on the Echo, so
 - [SharonBrizinov/slack-sounds](https://github.com/SharonBrizinov/slack-sounds) - Customize your Slack sound notifications
 - [mubaraknumann/unifideck](https://github.com/mubaraknumann/unifideck) - A Decky Loader plugin that brings together games from Steam, Epic Games Store, GOG, Amazon, Ubisoft and XCloud into a single, unified library experience on your Steam Deck.
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
